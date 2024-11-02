@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/recipe-search-app.git
+git clone https://github.com/nitingoley/recipe-search-app.git
 cd recipe-search-app
 Install dependencies:
 
@@ -34,7 +34,7 @@ Example:
 
 env
 Copy code
-REACT_APP_API_URL=https://api.example.com
+REACT_APP_API_URL=https://api.spoonacular.com
 REACT_APP_API_KEY=your_api_key
 Run the application:
 
